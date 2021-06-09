@@ -1,4 +1,4 @@
-module github.com/jsnfwlr/negroni-cors
+module github.com/zimmski/negroni-cors
 
 go 1.14
 
